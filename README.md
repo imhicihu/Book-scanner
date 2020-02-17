@@ -15,7 +15,7 @@
 
 * Quick summary
     - Blueprints and how-to-do a book scanner with a focus on minimalism and few steps
-    - ![parts.jpg](https://bitbucket.org/repo/98bX9jE/images/1817877143-directories.jpeg=
+    - ![parts.jpg](https://bitbucket.org/repo/98bX9jE/images/1817877143-directories.jpeg)
 * Version 1.01
 
 ### How do I get set up? ###
