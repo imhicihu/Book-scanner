@@ -24,7 +24,7 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - 
+    - Check [colophon.md](https://bitbucket.org/imhicihu/book-scanner/src/Colophon.md)
 * Configuration
     - 
 * Dependencies
