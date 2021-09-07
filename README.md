@@ -9,7 +9,7 @@
 * This internal project reflects our needs to digitize analogous data to the digital realm.
 * There were some insights and failures in the process, but, we reached the goal: not too pricey, technically affordable and easy to transport and deploy.
 * This repo is a living document that will grow and adapt over time
- ![NpO6Oi.gif](https://imgpile.com/images/NpO6Oi.gif)
+ ![NpOymG.gif](https://imgpile.com/images/NpOymG.gif)
 
 ### What is this repository for? ###
 
@@ -17,6 +17,7 @@
     - Blueprints and how-to-do a book scanner with a focus on minimalism and few steps
      ![parts.jpg](https://bitbucket.org/repo/98bX9jE/images/1817877143-directories.jpeg)
       ![3d_clamps](https://bitbucket.org/repo/98bX9jE/images/2311216624-clamp.jpeg)
+      ![pattern](https://bitbucket.org/repo/98bX9jE/images/1933612315-1.jpg)
      
 * Version 1.01
 
