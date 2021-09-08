@@ -25,7 +25,7 @@
     - Check [colophon.md](https://bitbucket.org/imhicihu/book-scanner/src/Colophon.md)
 * Deployment instructions
     - Check [procedures.md](https://bitbucket.org/imhicihu/book-scanner/src/procedures.md)
-    - Data related: [Bibliography.md](https://bitbucket.org/imhicihu/book-scanner/src/bibliography.md))
+    - Data related: [Bibliography.md](https://bitbucket.org/imhicihu/book-scanner/src/bibliography.md)
 
 ### Issues ###
 
