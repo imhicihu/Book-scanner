@@ -1,7 +1,5 @@
 ![stability-work_in_progress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
 ![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![status-archived](https://bitbucket.org/repo/ekyaeEE/images/3278295154-status_archived.png)
-![issues-closed](https://bitbucket.org/repo/ekyaeEE/images/1555006384-issues_closed.png)
 ![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
 
 # RATIONALE #
@@ -23,18 +21,10 @@
 
 ### How do I get set up? ###
 
-* Summary of set up
-    - Check [colophon.md](https://bitbucket.org/imhicihu/book-scanner/src/Colophon.md)
 * Configuration
-    - 
-* Dependencies
-    - 
-* Database configuration
-    - 
-* How to run tests
-    - 
+    - Check [colophon.md](https://bitbucket.org/imhicihu/book-scanner/src/Colophon.md)
 * Deployment instructions
-    - 
+    - Check [procedures.md](https://bitbucket.org/imhicihu/book-scanner/src/procedures.md)
 
 ### Source ###
 
@@ -50,12 +40,8 @@
 
 ### Contribution guidelines ###
 
-* Writing tests
-    - 
 * Code review
-    - 
-* Other guidelines
-    - 
+    - Pull request for any typo, request a feature, etc. are welcome
 
 ### Related repositories ###
 
