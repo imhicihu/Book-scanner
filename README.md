@@ -22,7 +22,7 @@
 ### How do I get set up? ###
 
 * Configuration
-    - Check [colophon.md](https://bitbucket.org/imhicihu/book-scanner/src/Colophon.md)
+    - Check [colophon.md](https://bitbucket.org/imhicihu/book-scanner/src/master/Colophon.md)
 * Deployment instructions
     - Check [procedures.md](https://bitbucket.org/imhicihu/book-scanner/src/master/procedures.md)
     - Check [checklist.md](https://bitbucket.org/imhicihu/book-scanner/src/master/checklist.md)
