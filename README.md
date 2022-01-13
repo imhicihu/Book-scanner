@@ -7,7 +7,7 @@
 * This internal project reflects our needs to digitize analogous data to the digital realm.
 * There were some insights and failures in the process, but, we reached the goal: not too pricey, technically affordable and easy to transport and deploy.
 * This repo is a living document that will grow and adapt over time
- ![NpOymG.gif](https://imgpile.com/images/NpOymG.gif)
+ ![NpOymG.gif](https://i.postimg.cc/wMtT8RKp/Untitled.gif)
 
 ### What is this repository for? ###
 
