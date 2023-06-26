@@ -7,7 +7,8 @@
 * This internal project reflects our needs to digitize analogous data to the digital realm.
 * There were some insights and failures in the process, but, we reached the goal: not too pricey, technically affordable and easy to transport and deploy.
 * This repo is a living document that will grow and adapt over time
- ![NpOymG.gif](https://i.postimg.cc/wMtT8RKp/Untitled.gif)
+<br> </br>
+ ![NpOymG.gif](images/animation.gif)
 
 ### What is this repository for? ###
 
@@ -34,12 +35,12 @@
 
 ### Changelog ###
 
-* Please check the [Commits](https://bitbucket.org/imhicihu/book-scanner/commits/) section for the current status
+* Please check the [Commits](https://github.com/imhicihu/book-scanner/commits/master) section for the current status
 
 ### Contribution guidelines ###
 
 * Code review
-    - Pull request for any typo, request a feature, etc. are welcome
+    - Pull request for any enhancement, request a feature, etc. are welcome
 
 ### Related repositories ###
 
@@ -51,8 +52,6 @@
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/book-scanner/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
