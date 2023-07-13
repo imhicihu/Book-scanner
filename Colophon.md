@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements ###
 
 * Hardware
      - Macbook 13"
@@ -24,9 +24,9 @@
           + [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
      - Scanning
  	      + [Scan Tailor](http://scantailor.org/): scanning and post-processing tool for scanned pages: (page splitting, dewarping, deskewing, adding/removing borders...)
-            ![Scan Tailor](https://bitbucket.org/repo/5qA7gpA/images/982419245-scantailor.png)
+            ![Scan Tailor](images/982419245-scantailor.png)
           + [Book Scan Wizard](https://sourceforge.net/projects/bookscanwizard/): scanning and post-processing tool for scanned pages
-            ![Book Scan Wizard](https://bitbucket.org/repo/5qA7gpA/images/1113201993-book_Scan_wizard.jpg)
+            ![Book Scan Wizard](images/1113201993-book_Scan_wizard.jpg)
           + [Light Meter - lux measurement tool](https://itunes.apple.com/es/app/light-meter-lux-measurement-tool/id642285909?mt=8): environment lux measurement tool (ipad app)
      - Image converter
           + [XnConverter](https://www.xnview.com/en/xnconvert/): image converter (batch)
@@ -34,12 +34,14 @@
      - Image post-processing
           + [YASW - Yet Another Scan Wizard](https://sourceforge.net/projects/yascanw/): post-processing of scanned images, particularly keystones issues
           + [voussoir](https://github.com/publicus/voussoir): post-processing of scanned images, with a focus on [de-keystones](https://www.researchgate.net/figure/Digital-image-process-for-keystone-and-fan-shape-distortions-correction-a-Keystone_fig6_258041815) scans
-            ![670558305-voussoir.jpg](https://bitbucket.org/repo/5qA7gpA/images/670558305-voussoir.png)
+            ![670558305-voussoir.jpg](images/670558305-voussoir.png)
           + [ImageOptim](https://github.com/ImageOptim/ImageOptim): image optimization
           * [digiKam](https://www.digikam.org/): digital photo management
      - Naming files
           + [Rename Master](http://www.joejoesoft.com/vcms/108/): Rename files in a batch (Windows)
-            ![rm_screenshot2.jpg](https://bitbucket.org/repo/5qA7gpA/images/1559824972-rm_screenshot2.jpg)
+          <br> </br>
+            ![rm_screenshot2.jpg](images/1559824972-rm_screenshot2.jpg)
+          <br> </br>  
           + [Name Changer](https://mrrsoftware.com/namechanger/): Rename files in a batch (MacOSX)
      - Metadata
           + [Droid](https://github.com/digital-preservation/droid): (Digital Record and Object Identification)
@@ -48,7 +50,9 @@
           - [Skim](https://skim-app.sourceforge.io) PDF reader and note-taker for macOSX. It is designed to help you read and annotate scientific papers in PDF file format
      - PDF assembly
           - [Alchemy](https://github.com/dawnlabs/alchemy): file converter and merger (mainly to merge lots of pdfs into one in `batch` mode)
-          ![7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif](https://bitbucket.org/repo/5qA7gpA/images/2680327398-7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif)
+          <br> </br>
+          ![7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif](images/2680327398-7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif)
+          <br> </br>
      - Backup:
         - [Duplicati](https://www.duplicati.com/) (open-source backup software)
         - [Smash](https://www.fromsmash.com/): (unlimited digital moving/transfer of digital assets)
@@ -59,6 +63,6 @@
 * Documentation
      - [Blender documentation](https://docs.blender.org/) 
      
-## Legal ##
+### Legal ###
 
 * All trademarks are the property of their respective owners.

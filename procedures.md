@@ -9,7 +9,7 @@
 * do not use `raw` file format 
 * Create a `master` folder in your computer
 * Create 2 folders: `pair` & `even`
-  - ![pares_impares.jpeg](https://bitbucket.org/repo/5qA7gpA/images/475937124-pares_impares.jpeg)
+![pares_impares.jpeg](images/475937124-pares_impares.jpeg)
 * Copy those scans or photographs to the right folder that meet the former criteria
 * Rotate to the `left` or `right` accordingly
 * Unskew every page. Set proportions trying do not deform the image

@@ -1,7 +1,7 @@
 ## Gold rule
 * ```The more pages you want to capture, the more variables you need to control```
 ### General rules
-* as a rule of thumb, there is no ready-made recipes that apply to everything. Every case deserve differents strategies. In our case, our motto was: _the less steps, the better_
+* as a rule of thumb, there is no ready-made recipes that apply to everything. Every case deserve different strategies. In our case, our motto was: _the less steps, the better_
 * check your electrical power supply
 * check the environmental light condition of your room
 * check the surround airwaves. As a rule of thumb, _avoid warm and windy environments_. Even more, we close doors and windows to avoid changes in the light's room
@@ -23,4 +23,4 @@
 * apply `image rotation`, `cropping`, `keystoning`, `dewarping` or `undeskew` according every page. Avoid any [optical aberrations](https://en.wikipedia.org/wiki/Optical_aberration#Distortion_of_the_image)
 * apply [metadata](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Metadata.md) to the finished object: apply indexing's standards: [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core), [XMP](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform) _et alia_
 * check the free space remaining of your computer
-* consider a version for colorblind persons or those that suffer cromatic symptoms
+* consider a version for colour-blind persons or those that suffer chromatic symptoms
