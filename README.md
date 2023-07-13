@@ -1,6 +1,6 @@
-![stability-work_in_progress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+![stability-work_in_progress](images/477405737-stability_work_in_progress.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
+![issues-open](images/2944199103-issues_open.png)
 
 # RATIONALE #
 
@@ -14,24 +14,21 @@
 
 * Quick summary
     - Blueprints and how-to-do a book scanner with a focus on minimalism and few steps
-     ![parts.jpg](https://bitbucket.org/repo/98bX9jE/images/1817877143-directories.jpeg)
-      ![3d_clamps](https://bitbucket.org/repo/98bX9jE/images/2311216624-clamp.jpeg)
-      ![pattern](https://bitbucket.org/repo/98bX9jE/images/1933612315-1.jpg)
+ ![parts.jpg](images/1817877143-directories.jpeg)
+ ![3d_clamps](images/2311216624-clamp.jpeg)
+ ![pattern](images/1933612315-1.jpg)
      
 * Version 1.01
 
 ### How do I get set up? ###
 
 * Configuration
-    - Check [colophon.md](https://bitbucket.org/imhicihu/book-scanner/src/master/Colophon.md)
+    - Check [colophon.md](Colophon.md)
 * Deployment instructions
-    - Check [procedures.md](https://bitbucket.org/imhicihu/book-scanner/src/master/procedures.md)
-    - Check [checklist.md](https://bitbucket.org/imhicihu/book-scanner/src/master/checklist.md)
-    - Data related: [Bibliography.md](https://bitbucket.org/imhicihu/book-scanner/src/master/Bibliography.md)
-
-### Issues ###
-
-* Check them on [here](https://bitbucket.org/imhicihu/book-scanner/issues)
+    - Check [procedures.md](procedures.md)
+    - Check [checklist.md](checklist.md)
+    - Check [metadata.md](metadata.md)
+    - Data related: [Bibliography.md](Bibliography.md)
 
 ### Changelog ###
 
@@ -55,7 +52,7 @@
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/book-scanner/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
@@ -63,4 +60,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
