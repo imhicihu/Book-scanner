@@ -41,7 +41,7 @@
           + [Rename Master](http://www.joejoesoft.com/vcms/108/): Rename files in a batch (Windows)
           <br> </br>
             ![rm_screenshot2.jpg](images/1559824972-rm_screenshot2.jpg)
-          <br> </br>  
+          <br> </br>
           + [Name Changer](https://mrrsoftware.com/namechanger/): Rename files in a batch (MacOSX)
      - Metadata
           + [Droid](https://github.com/digital-preservation/droid): (Digital Record and Object Identification)
