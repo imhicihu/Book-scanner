@@ -19,4 +19,4 @@
     - `page003.jpeg`
     - `page005.jpeg`
     - _etc_.
-* Add [metadata](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/1d35713855c1381f99508c0e209ef41e0af437b0/Metadata.md?at=master&fileviewer=file-view-default) to every file to meet industry indexing guidelines
+* Add [metadata](Metadata.md) to every file to meet industry indexing guidelines
