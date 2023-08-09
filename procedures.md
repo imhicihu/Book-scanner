@@ -1,4 +1,4 @@
-## Procedures
+### Procedures
 
 * Measure [lux](https://itunes.apple.com/es/app/light-meter-lux-measurement-tool/id642285909?mt=8). Best environmental light as possible. Best hours in the day: in the morning. Avoid stormy days.
 * Avoid artificial light
