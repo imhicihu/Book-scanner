@@ -1,4 +1,4 @@
-## Gold rule
+### Gold rule
 * ```The more pages you want to capture, the more variables you need to control```
 ### General rules
 * as a rule of thumb, there is no ready-made recipes that apply to everything. Every case deserve different strategies. In our case, our motto was: _the less steps, the better_
