@@ -11,7 +11,7 @@
 * [International Internet Preservation Consortion](http://netpreserve.org/)
 * [Library of Congress -digital preservation- publications](http://www.digitalpreservation.gov/multimedia/)
 * [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/) plus [Guidelines](http://www.digitizationguidelines.gov/guidelines/)
-* [Net preserve case studies](http://netpreserve.org/web-archiving/case-studies/)(take in count the link analysis)
+* [Net preserve case studies](http://netpreserve.org/web-archiving/case-studies/) (take in count the link analysis)
 * [http://catalogosuba.sisbi.uba.ar/vufind/Record/20160331025831271](http://catalogosuba.sisbi.uba.ar/vufind/Record/20160331025831271)
 * [A Linux Guide to Book Scanning](https://natecraun.net/articles/linux-guide-to-book-scanning.html)
 * [Perspective correction (algorithm)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
