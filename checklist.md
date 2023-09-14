@@ -8,7 +8,7 @@
 * choose the biggest page/book that will be captured in that specific task scanning. Then measure it. Later, weigh it (to avoid a destructive scan)
 * choose a _neutral_ glass (non reflective, so there is no translucent backdrops). Avoid anti-glare glass (_aka_ "museum glass"): it blur the images and is prone to get damaged by the same books/pages/fingerprints.
 * use gloves in case of historical material (ie.: _incunnabilia_)
-* attach a [color management chart](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues/29/workflow-color-management-chart)
+* attach a [color management chart](images/1931971053-marker.jpeg)
 * attach as a background surface a non-glare / non reflective material (to avoid reflections over images), preferable a dark velvet
 * avoid any technical change/displacement (even environment condition) during the process of capture
 * avoid (along the process) use of flash built-in
@@ -21,6 +21,6 @@
 * measure room's [lux](https://itunes.apple.com/es/app/light-meter-lux-measurement-tool/id642285909?mt=8)
 * avoid artificial light (most of times). But if no choice, choose those that do not generate _saturated_ images, indeed choose those LED models that are energy-efficient. [90 cd](https://en.wikipedia.org/wiki/Candela) is a desirable condition. The lighting should cause minimal glare across all the capture's process
 * apply `image rotation`, `cropping`, `keystoning`, `dewarping` or `undeskew` according every page. Avoid any [optical aberrations](https://en.wikipedia.org/wiki/Optical_aberration#Distortion_of_the_image)
-* apply [metadata](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Metadata.md) to the finished object: apply indexing's standards: [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core), [XMP](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform) _et alia_
+* apply [metadata](Metadata.md) to the finished object: apply indexing's standards: [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core), [XMP](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform) _et alia_
 * check the free space remaining of your computer
 * consider a version for colour-blind persons or those that suffer chromatic symptoms
