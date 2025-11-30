@@ -19,4 +19,4 @@
     - `page003.jpeg`
     - `page005.jpeg`
     - _etc_.
-* Add [metadata](Metadata.md) to every file to meet industry indexing guidelines
+* Add [metadata](metadata.md) to every file to meet industry indexing guidelines
