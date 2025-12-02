@@ -4,7 +4,6 @@
 
 ![archived](images/status_archived.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
-![issues-open](images/2944199103-issues_open.png)
 
 # RATIONALE #
 
